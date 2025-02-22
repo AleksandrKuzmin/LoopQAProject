@@ -1,7 +1,7 @@
 # Playwright Test Automation Project
 
 ## Overview
-This project is a **Playwright-based test automation framework** designed to automate the login process and verify tasks within different sections of a web application. It follows the **Page Object Model (POM)** for better maintainability and scalability.
+This project is a **Playwright-based test automation framework** designed to automate the login process and verify tasks within different sections of a web application. It follows the **Page Object Model (POM)** for better maintainability and scalability. The project includes GitHub Actions for continuous integration and automated test execution.
 
 ## Features
 ✅ **Page Object Model (POM)** - Separates UI interactions from test logic  
