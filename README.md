@@ -27,7 +27,7 @@ This project is a **Playwright-based test automation framework** designed to aut
 │── README.md               # Documentation (this file)
 ```
 
-## Installation & Setup
+## Installation & Setup!
 
 ### 1️⃣ Install Dependencies
 Make sure you have **Node.js** installed, then run:
